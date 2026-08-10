@@ -58,3 +58,12 @@ df.shape
 df.columns
 df.info()
 df.describe()
+## Visualizations
+
+### Flight Count vs Departure Session
+
+![Flight Count vs Departure Session](flights_project_screen_short%201.png)
+
+### Total Amount vs Airline
+
+![Total Amount vs Airline](flights_project_screen_shoot%202.png)
