@@ -47,6 +47,15 @@ The dataset contains **15,769 rows and 12 columns**. The project covers data ins
 9. Data Visualization
 10. Insight Generation
 
+## Visualizations
+
+### Flight Count vs Departure Session
+
+![Flight Count vs Departure Session](flights_project_screen_short%201.png)
+
+### Total Amount vs Airline
+
+![Total Amount vs Airline](flights_project_screen_shoot%202.png)
 ## Data Cleaning
 
 The dataset was initially inspected using functions such as:
@@ -58,12 +67,4 @@ df.shape
 df.columns
 df.info()
 df.describe()
-## Visualizations
 
-### Flight Count vs Departure Session
-
-![Flight Count vs Departure Session](flights_project_screen_short%201.png)
-
-### Total Amount vs Airline
-
-![Total Amount vs Airline](flights_project_screen_shoot%202.png)
